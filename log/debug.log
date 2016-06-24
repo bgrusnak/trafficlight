@@ -1,0 +1,6 @@
+2016-06-15 11:42:56.887 [error] <0.54.0> /home/rusnak/projects/trafficlight/src/trafficlight.erl:8: Error: function start/0 undefined
+/home/rusnak/projects/trafficlight/src/trafficlight.erl:31: Error: syntax error before: ','
+/home/rusnak/projects/trafficlight/src/trafficlight.erl:52: Warning: variable 'Headers' is unused
+2016-06-15 11:43:09.097 [error] <0.54.0> /home/rusnak/projects/trafficlight/src/trafficlight.erl:8: Error: function start/0 undefined
+/home/rusnak/projects/trafficlight/src/trafficlight.erl:31: Error: syntax error before: ','
+/home/rusnak/projects/trafficlight/src/trafficlight.erl:52: Warning: variable 'Headers' is unused

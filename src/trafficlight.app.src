@@ -1,0 +1,18 @@
+%% ERlang ONline IDE.
+
+{application, trafficlight, [
+	{description, "ERlang ONline IDE."},
+	{vsn, "0.3.0"},
+	{modules, []},
+	{registered, [trafficlight_sup]},
+	{applications, [
+		kernel,
+		stdlib,
+		cowboy,
+		sync,
+		crypto,
+		lager
+	]},
+	{mod, {trafficlight_app, []}},
+	{env, []}
+]}.
